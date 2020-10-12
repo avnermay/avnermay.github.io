@@ -2,20 +2,15 @@
 
 ~~~
 {}{img_left}{pictures/Avner_May_Picture.jpg}{Avner May}{190}{190}
-Postdoctoral Scholar \n
-[http://statsml.stanford.edu Statistical Machine Learning Group] \n
-[http://www-cs.stanford.edu/ Department of Computer Science], 
-[www.stanford.edu Stanford University] \n
-Advisor: [http://cs.stanford.edu/people/chrismre Christopher Ré] \n
+Research Scientist at [https://research.google/locations/new-york/ Google NYC]\n
 [files/Avner_May_CV_website.pdf CV]
 ~~~
 
 == Contact Information\n
 Email: avnermay \[at\] cs (dot) stanford (dot) edu \n
-Office: Gates 458, 353 Serra Mall, Stanford, CA 94305 \n
 
 == About me
-I am a postdoctoral scholar working in [https://cs.stanford.edu/people/chrismre/ Prof. Chris Ré's] group at Stanford University. I completed my PhD in Computer Science at Columbia University in December 2017, advised by [http://www.cs.columbia.edu/~mcollins/ Prof. Michael Collins]. Prior to my PhD, I worked for two years as a software development engineer at Microsoft, living in Seattle, WA.  I graduated in 2009 from Harvard College, where I majored in Mathematics, with a minor in Computer Science. I am originally from Potomac, MD.
+I am a research scientist in the speech recognition group in Google's NYC office.  Prior to joining Google, I was a postdoctoral scholar working in [https://cs.stanford.edu/people/chrismre/ Prof. Chris Ré's] group at Stanford University. I completed my PhD in Computer Science at Columbia University in December 2017, advised by [http://www.cs.columbia.edu/~mcollins/ Prof. Michael Collins]. Prior to my PhD, I worked for two years as a software development engineer at Microsoft, living in Seattle, WA.  I graduated in 2009 from Harvard College, where I majored in Mathematics, with a minor in Computer Science. I am originally from Potomac, MD.
 
 == Research Interests
 My research interests center around designing simpler, better understood, and more efficient, machine learning models. For example, during my PhD, I showed that kernel approximation methods can perform comparably to fully-connected deep neural networks on the challenging non-linear classification problems in speech recognition systems. More recently, I have worked on better understanding what makes an approximate feature representation perform well on downstream tasks, both in the context of kernel approximation methods and word embedding compression. This understanding is important for efficiently selecting among existing feature approximations or designing new ones, and for navigating the trade-offs between computation, memory, and downstream performance.
