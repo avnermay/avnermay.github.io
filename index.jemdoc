@@ -1,0 +1,82 @@
+= Avner May
+
+~~~
+{}{img_left}{pictures/Avner_May_Picture.jpg}{Avner May}{190}{190}
+Postdoctoral Scholar \n
+[http://statsml.stanford.edu Statistical Machine Learning Group] \n
+[http://www-cs.stanford.edu/ Department of Computer Science], 
+[www.stanford.edu Stanford University] \n
+Advisor: [http://cs.stanford.edu/people/chrismre Christopher Ré] \n
+[files/Avner_May_CV_website.pdf CV]
+~~~
+
+== Contact Information\n
+Email: avnermay \[at\] cs (dot) stanford (dot) edu \n
+Office: Gates 458, 353 Serra Mall, Stanford, CA 94305 \n
+
+== About me
+I am a postdoctoral scholar working in [https://cs.stanford.edu/people/chrismre/ Prof. Chris Ré's] group at Stanford University. I completed my PhD in Computer Science at Columbia University in December 2017, advised by [http://www.cs.columbia.edu/~mcollins/ Prof. Michael Collins]. Prior to my PhD, I worked for two years as a software development engineer at Microsoft, living in Seattle, WA.  I graduated in 2009 from Harvard College, where I majored in Mathematics, with a minor in Computer Science. I am originally from Potomac, MD.
+
+== Research Interests
+My research interests center around designing simpler, better understood, and more efficient, machine learning models. For example, during my PhD, I showed that kernel approximation methods can perform comparably to fully-connected deep neural networks on the challenging non-linear classification problems in speech recognition systems. More recently, I have worked on better understanding what makes an approximate feature representation perform well on downstream tasks, both in the context of kernel approximation methods and word embedding compression. This understanding is important for efficiently selecting among existing feature approximations or designing new ones, and for navigating the trade-offs between computation, memory, and downstream performance.
+# OLD VERSION: My main area of interest is large-scale machine learning. For my dissertation, I worked on scaling kernel approximation methods to the challenging non-linear classification problems in speech recognition systems.  Although kernel methods have been extensively studied, and have a strong theoretical foundation, there has been relatively little success scaling these methods to large-scale problems like speech recognition and computer vision. Currently, deep learning methods are the state of the art in these domains.  My work is the first to show that kernel methods can effectively compete with deep neural networks in the context of speech recognition.  I am interested in better understanding the differences between these two families of models, as well as improving these methods.
+
+Prior to working on machine learning, I did two years of research in social network analysis, advised by [http://www.cs.columbia.edu/~augustin/ Prof. Augustin Chaintreau]; I studied whether social networks like Facebook or Twitter are efficient systems for delivering content of interest to their users (2011-2013).
+
+== Other Interests
+I love most things that involve being active and outdoors---running, biking, snowboarding, hiking, camping, and basically anything in the mountains.  During the summer of 2017 I spent 2.5 months on the Pacific Crest Trail.  I am very interested in food systems and nutrition, and how they affect our health, the environment, and the well-being of animals.
+
+== Publications \n
+- [files/ACL_2020_contextual_embeddings.pdf *Contextual Embeddings: When are they worth it?*] \n
+S. Arora\*, *A. May\**, J. Zhang, C. Ré \n
+/ACL 2020/
+- [https://proceedings.mlsys.org/static/paper_files/mlsys/2020/104-Paper.pdf *Understanding the Downstream Instability of Word Embeddings*] \n
+M. Leszczynski, *A. May*, J. Zhang, S. Wu, C. Aberger, C. Ré \n
+/MLSys 2020/
+- [https://arxiv.org/pdf/1909.01264.pdf *On the Downstream Performance of Compressed Word Embeddings*] \n
+*A. May*, J. Zhang, T. Dao, C. Ré \n
+/NeurIPS 2019 (Spotlight, 3\% acceptance)/
+- [http://proceedings.mlr.press/v89/zhang19f/zhang19f.pdf *Low-Precision Random Fourier Features for Memory-Constrained Kernel Approximation*] \n
+J. Zhang\*, *A. May\**, T. Dao, C. Ré \n
+/AISTATS 2019/
+- [http://www.jmlr.org/papers/volume20/17-026/17-026.pdf *Kernel Approximation Methods for Speech Recognition*] \n
+*A. May*, A.B. Garakani, Z. Lu, D. Guo, K. Liu, A. Bellet, L. Fan, M. Collins, D. Hsu, B. Kingsbury, M. Picheny, F. Sha \n
+/JMLR 2019 (arXiv 2017)/
+- [files/may_thesis.pdf *Kernel Approximation Methods for Speech Recognition*] \n
+*Avner May* \n
+/PhD Thesis, 2017/ [files/thesis_defense_slides.pdf \[slides\]]
+- [files/ICASSP_2016_Compact_Kernels.pdf *Compact Kernel Models for Acoustic Modeling via Random Feature Selection*] \n
+*A. May*, M. Collins, D. Hsu, B. Kingsbury \n
+/ICASSP 2016/ \n
+- [files/ICASSP_2016_Comparison_DNNs_Kernels.pdf *A Comparison Between Deep Neural Nets and Kernel Acoustic Models for Speech Recognition*] \n
+Z. Lu, D. Guo, A.B. Garakani, K. Liu, *A. May*, A. Bellet, L. Fan, M. Collins, B. Kingsbury, M. Picheny, F. Sha \n
+/ICASSP 2016/
+#- Compact Models for Large-scale Non-linear Learning via Random Feature Selection \n
+#*A. May*, M. Collins, D. Hsu, B. Kingsbury \n
+#/NIPS 2015 Feature Extraction Workshop/ \n
+- [https://arxiv.org/pdf/1411.4000v1.pdf *How to Scale Up Kernel Methods to Be As Good As Deep Neural Nets*] \n
+Z. Lu\*, *A. May\**, K. Lu, A. Garakani, D. Guo, A. Bellet, L. Fan, F. Sha, M. Collins, B. Kingsbury \n
+/arXiv 2014/ \n
+- [files/Sigmetrics2014_Filter_and_Follow.pdf *Filter & Follow: How Social Media Foster Content Curation*] \n
+*A. May*, A. Chaintreau, N. Korula, S. Lattanzi \n
+/SIGMETRICS 2014/
+
+\* Equal contribution.
+
+#== Posters and Presentations
+#- NIPS 2015 Feature Extraction Workshop, Montreal, Canada, Dec. 11, 2015.
+#- SANE 2015 (Speech and Audio in the Northeast), New York, NY, Oct. 22, 2015.
+#- NYML 2015 (New York Machine Learning Symposium), New York, NY, Mar. 13, 2015.
+#- Workshop on Social Computing and User Generated Content @ The 2013 ACM Conference on Electronic Commerce (ACM-EC 2013), Philadelphia, PA, June 16, 2013.
+#- New York Computer Science and Economics Day (NYCE), New York, NY, Dec. 3rd 2012.
+#- Interdisciplinary Workshop on Information and Decision in Social Networks (WIDS), Cambridge, MA, Nov. 8-9, 2012.
+
+== Internships
+- Summer 2015: Google Research, New York, NY.
+- Summer 2014: Microsoft Research, Redmond, WA.
+
+== Community Service
+- I have been a reviewer for ICLR 2018, ICML 2017-2020 (2019 Top Reviewer), NeurIPS 2017-2019, ICJAI 2019-2020 (2019 Distinguished PC member), AAAI 2020. 
+
+
+
