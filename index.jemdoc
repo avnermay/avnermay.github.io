@@ -30,7 +30,7 @@ M. Leszczynski, *A. May*, J. Zhang, S. Wu, C. Aberger, C. Ré \n
 /MLSys 2020/
 - [https://arxiv.org/pdf/1909.01264.pdf *On the Downstream Performance of Compressed Word Embeddings*] \n
 *A. May*, J. Zhang, T. Dao, C. Ré \n
-/NeurIPS 2019 (Spotlight, 3\% acceptance)/
+/NeurIPS 2019 (Spotlight, 3\% acceptance)/ [files/compressed_embeddings_neurips_2019_slides.pdf \[slides\]] [files/compressed_embeddings_neurips_2019_video.mp4 \[video\]]
 - [http://proceedings.mlr.press/v89/zhang19f/zhang19f.pdf *Low-Precision Random Fourier Features for Memory-Constrained Kernel Approximation*] \n
 J. Zhang\*, *A. May\**, T. Dao, C. Ré \n
 /AISTATS 2019/
