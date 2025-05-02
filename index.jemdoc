@@ -3,7 +3,7 @@
 ~~~
 {}{img_left}{pictures/Avner_May_Picture_Together.jpg}{Avner May}{190}{190}
 Staff Research Scientist at [https://together.ai together.ai]\n
-[files/Avner_May_Resume_2023.pdf CV]
+[files/Avner_May_Resume_2025.pdf CV]
 ~~~
 
 == Contact Information\n
@@ -22,12 +22,21 @@ Prior to working on machine learning, I did two years of research in social netw
 I love most things that involve being active and outdoors---running, biking, snowboarding, hiking, camping, and basically anything in the mountains.  During the summer of 2017 I spent 2.5 months on the Pacific Crest Trail.  I am very interested in food systems and nutrition, and how they affect our health, the environment, and the well-being of animals.
 
 == Publications \n
+- [https://arxiv.org/pdf/2502.15964 *Minions: Cost-efficient Collaboration Between On-device and Cloud Language Models*] \n
+A. Narayan\*, D. Biderman\*, S. Eyuboglu\*, *A. May*, S. Linderman, J. Zou, C. Ré \n
+/ICML 2025/
+- [https://arxiv.org/pdf/2408.11049 *MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding*] \n
+R. Sadhukhan\*, J. Chen\*, Z. Chen, V. Tiwari, R. Lai, J. Shi, I. Yen, *A. May*, T. Chen, B. Chen \n
+/ICLR 2025/
+- [https://arxiv.org/pdf/2408.15237 *The Mamba in the Llama: Distilling and Accelerating Hybrid Models*] \n
+J. Wang\*, D. Paliotta\*, *A. May*, A. Rush, T. Dao \n
+/NeurIPS 2024/
 - [https://arxiv.org/pdf/2406.02532 *SpecExec:  Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices*] \n
 R. Svirschevski\*, *A. May\**, Z. Chen\*,  B. Chen, Z. Jia, M. Ryabinin \n
-/ArXiv 2024/
+/NeurIPS 2024/
 - [https://arxiv.org/pdf/2402.12374 *Sequoia: Scalable, Robust, and Hardware-Aware Speculative Decoding*] \n
 Z. Chen\*, *A. May\**, R. Svirschevski\*, Y. Huang, M. Ryabinin, Z. Jia, B. Chen \n
-/ArXiv 2024/
+/NeurIPS 2024/
 - [https://arxiv.org/pdf/2312.09369 *Audio-Visual Fine-tuning of Audio-Only ASR Models*] \n
 *A. May*, D. Serdyuk, A. Shah, O. Braga, O. Siohan \n
 /ArXiv 2023/
