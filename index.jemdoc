@@ -25,7 +25,7 @@ I love most things that involve being active and outdoors---running, biking, sno
 
 == Publications \n
 - [https://arxiv.org/pdf/2602.06932 *When RL Meets Adaptive Speculative Training: A Unified Training–Serving System*] \n
-J. Wang, F. Bie, J. Li, Z. Zhou, Z. Shao, Q. Wu, Y. Liu, Y. Wang, *A. May*, S. Yanamandra, T. Dao, P. Liang, C. Zhang,
+J. Wang\*, F. Bie\*, J. Li, Z. Zhou, Z. Shao, Q. Wu, Y. Liu, Y. Wang, *A. May*, S. Yanamandra, T. Dao, P. Liang, C. Zhang,
 B. Athiwaratkun, S. Song, C. Xu, X. Wu \n
 /ICML 2026/
 - [https://arxiv.org/pdf/2603.03251 *Speculative Speculative Decoding*] \n
