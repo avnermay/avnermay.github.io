@@ -24,6 +24,13 @@ In my PhD, I showed that kernel approximation methods can perform comparably to 
 I love most things that involve being active and outdoors---running, biking, snowboarding, hiking, camping, and basically anything in the mountains.  During the summer of 2017 I spent 2.5 months on the Pacific Crest Trail.  I am very interested in food systems and nutrition, and how they affect our health, the environment, and the well-being of animals.
 
 == Publications \n
+- [https://arxiv.org/pdf/2602.06932 *When RL Meets Adaptive Speculative Training: A Unified Training–Serving System*] \n
+J. Wang, F. Bie, J. Li, Z. Zhou, Z. Shao, Q. Wu, Y. Liu, Y. Wang, *A. May*, S. Yanamandra, T. Dao, P. Liang, C. Zhang,
+B. Athiwaratkun, S. Song, C. Xu, X. Wu \n
+/ICML 2026/
+- [https://arxiv.org/pdf/2603.03251 *Speculative Speculative Decoding*] \n
+T. Kumar, T. Dao, *A. May* \n
+/ICLR 2026/
 - [https://arxiv.org/pdf/2502.15964 *Minions: Cost-efficient Collaboration Between On-device and Cloud Language Models*] \n
 A. Narayan\*, D. Biderman\*, S. Eyuboglu\*, *A. May*, S. Linderman, J. Zou, C. Ré \n
 /ICML 2025/
